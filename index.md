@@ -28,9 +28,13 @@ Syntax highlighted code block
 
 (EXPERIMENTING WITH SYNTAX)
 **Hello World**
+
 _my italic text - option1_ 
+
 'System.out.println("Hello World");
+
 *my italic text - option2*
+
 _my italic text - **option3** - combination_
 
 # My Header1
