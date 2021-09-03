@@ -26,6 +26,24 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+(EXPERIMENTING WITH SYNTAX)
+**Hello World**
+_my italic text - option1_ 
+'System.out.println("Hello World");
+*my italic text - option2*
+_my italic text - **option3** - combination_
+
+# My Header1
+## My Header2
+### My Header3
+- myBulletList
+- second bullet point
+- third bullet point
+1. myNumberList
+2. second number point
+3. third number point
+
+[myLink] ![myImage] 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
